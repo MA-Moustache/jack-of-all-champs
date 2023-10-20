@@ -1,5 +1,8 @@
 # jack-of-all-champs
+
 A visual tool to track your progress in the 'Jack of All Champs' challenge in League of Legends, displaying the champions for which you still need a win.
+
+Last champion added: Briar
 
 # Setup
 
